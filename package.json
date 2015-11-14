@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/csjoblom/designer-sandbox/issues"
   },
-  "homepage": "https://github.com/csjoblom/designer-sandbox#readme"
+  "homepage": "https://github.com/csjoblom/designer-sandbox#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-bower": "0.0.11",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.0.5"
+  }
 }

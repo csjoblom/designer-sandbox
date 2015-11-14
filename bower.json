@@ -1,0 +1,32 @@
+{
+  "name": "designer-sandbox",
+  "description": "designer sandbox with sass",
+  "main": "server.js",
+  "authors": [
+    "Chris Sjoblom"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "designer",
+    "node",
+    "sass",
+    "bower"
+  ],
+  "homepage": "https://github.com/csjoblom/designer-sandbox",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.5",
+    "font-awesome": "fontawesome#~4.4.0",
+    "material-design-lite": "~1.0.6"
+  }
+}
