@@ -18,8 +18,8 @@ Installation
 
 Includes
 -------------
-* bootstrap-sass (commented out)
-* material-design-lite
+* bootstrap-sass 
+* material-design-lite (commented out on this branch)
 * fontawesome
 
 How to use
