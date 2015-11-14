@@ -1,0 +1,25 @@
+{
+  "name": "designer-sandbox",
+  "version": "0.1.0",
+  "description": "designer sandbox with sass",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csjoblom/designer-sandbox.git"
+  },
+  "keywords": [
+    "designer",
+    "node",
+    "sass",
+    "bower"
+  ],
+  "author": "Chris Sjoblom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/csjoblom/designer-sandbox/issues"
+  },
+  "homepage": "https://github.com/csjoblom/designer-sandbox#readme"
+}
