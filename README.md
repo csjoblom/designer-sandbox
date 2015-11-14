@@ -25,7 +25,7 @@ Includes
 How to use
 ---------------
 * gulp watch project folder
-* * gulp will auto compile a new css to public/css/style.css whenever we make a change
+* gulp will auto compile a new css to public/css/style.css whenever we make a change
 * At this point you are ready to build. Any HTML changes need to happen in index.html, and any css changes in resources/sass/style.css 
 
 
@@ -34,4 +34,4 @@ Adding new plugins
 * install plugin via bower install <plugin name>
 * add new bower plugin to loadPath in gulpfile.js
 * import <newplugin> in resources/sass/style.scss
-* * add any css changes below imports
+* add any css changes below imports
