@@ -32,7 +32,7 @@ gulp.task('js', function(){
         .pipe(babel())
         .pipe(concat('main.js'))
         .pipe(sourcemaps.write('.'))
-        .pipe(gulp.dest('dist'));
+        .pipe(gulp.dest('public/js'));
 });
 
 //runs bower on home directory
