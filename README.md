@@ -3,13 +3,16 @@ Designer Sandbox
 
 Requirements
 ------------
-nodeJS
-Sass - (sudo gem install sass on OSX)
-Bower - (requires node, sudo npm install -g bower)
+* nodejs
+* git (obviously)
+* sass - (sudo gem install sass on OSX)
+* bower - (requires node, sudo npm install -g bower)
 
 Installation
 ------------
-* cd into cloned directory
+* go to your projects folder
+* clone this project (git clone https://github.com/csjoblom/designer-sandbox <project_name>)
+* cd into new project folder
 * run npm install
 * run bower install
 
@@ -23,7 +26,7 @@ How to use
 ---------------
 * gulp watch project folder
 ** gulp will auto compile a new css to public/css/style.css whenever we make a change
-* At this point you are ready to build. Any HTML changes needs to happen in index.html, and any css changes in resources/sass/style.css
+* At this point you are ready to build. Any HTML changes need to happen in index.html, and any css changes in resources/sass/style.css 
 
 
 Adding new plugins
@@ -32,5 +35,3 @@ Adding new plugins
 * add new bower plugin to loadPath in gulpfile.js
 * import <newplugin> in resources/sass/style.scss
 ** add any css changes below imports
-*
-
