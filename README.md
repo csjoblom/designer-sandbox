@@ -12,6 +12,7 @@ Installation
 ------------
 * go to your projects folder
 * clone this project (git clone https://github.com/csjoblom/designer-sandbox <project_name>)
+* if you want material design run: git checkout --track origin/material
 * cd into new project folder
 * run npm install
 * run bower install
