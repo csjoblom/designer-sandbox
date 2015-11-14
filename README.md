@@ -31,7 +31,8 @@ How to use
 
 Adding new plugins
 ------------------
-* install plugin via bower install <plugin name>
+* cd to your project folder
+* install plugin via bower install <plugin name> 
 * add new bower plugin to loadPath in gulpfile.js
 * import <newplugin> in resources/sass/style.scss
-* add any css changes below imports
+* add any css changes below import
